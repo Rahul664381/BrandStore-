@@ -6,7 +6,7 @@ import Footer from "../src/Componemt/Footer.jsx";
 import Hero from "../src/Componemt/Home/Hero.jsx";
 import MarqueeSlider from "./Componemt/Home/MarqueeSlider.jsx";
 import CardSlider from "./Componemt/Home/CardSlider.jsx";
-import ProductCard from "./Componemt/Home/ProductCard.jsx";
+// import ProductCard from "./Componemt/Home/ProductCard.jsx";
 import Testimonials from "./Componemt/Home/Testimonials.jsx";
 import Gallery from "./Componemt/Home/Gallery.jsx";
 import Update from "./Componemt/Home/Update.jsx";
